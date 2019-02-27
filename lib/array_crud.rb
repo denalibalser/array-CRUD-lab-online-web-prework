@@ -34,7 +34,6 @@ end
 def retrieve_first_element_from_array(array)
   array = ["am", 1, 2, 3, 4]
   array.first
-
 end
 
 def retrieve_last_element_from_array(array)
